@@ -25,6 +25,7 @@ The system is designed as a simple, interactive tool to demonstrate **computer v
    ```bash
    git clone https://github.com/your-username/asl-detector
    cd asl-detector
+   ```
 
 
 2. **Check Python version**
